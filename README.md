@@ -1,7 +1,7 @@
 # Inductive and Unsupervised Representation Learning on Graph Structured Objects
 This repository contains code for our International Conference on Learning Representations (ICLR) 2020 paper: [Inductive and Unsupervised Representation Learning on Graph Structured Objects](https://openreview.net/pdf?id=rkem91rtDB) (SEED).
 
-For quick understanding of our work, please also see the [video](https://www.youtube.com/watch?v=8oUPyhwzIDo) which is the presentation in ICLR2020.
+For quick understanding of our work, please also see the [video](https://iclr.cc/virtual_2020/poster_rkem91rtDB.html) which is the presentation in ICLR2020.
 
 ## Introduction
 <div align="center">
