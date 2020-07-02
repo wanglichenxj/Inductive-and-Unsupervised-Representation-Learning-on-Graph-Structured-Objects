@@ -17,7 +17,7 @@ Inductive and unsupervised graph learning is a critical technique for predictive
 In this paper, we propose a general framework SEED (Sampling, Encoding, and Embedding Distributions) for inductive and unsupervised representation learning on graph structured objects. Instead of directly dealing with the computational challenges raised by graph similarity evaluation, given an input graph, the SEED framework samples a number of subgraphs whose reconstruction errors could be efficiently evaluated, encodes the subgraph samples into a collection of subgraph vectors, and employs the embedding of the subgraph vector distribution as the output vector representation for the input graph. By theoretical analysis, we demonstrate the close connection between SEED and graph isomorphism. Using public benchmark datasets, our empirical study suggests the proposed SEED framework is able to achieve up to 10% improvement, compared with competitive baseline methods.
 
 ## Code
-Code will be available soon. Welcome to send me emails if you have any questions. Thanks!
+The reimplementation of SEED could be find in [here](https://github.com/wenwen0319/SEED-Reimplementation).
 
 ## Authors
 Welcome to send us Emails if you have any questions about the code and our work :-)
